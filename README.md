@@ -1,6 +1,7 @@
 # markdown-on-apache
 
 parses and shows markdown directly on Apache, powered by marked.js
+
 desirable if some framework css (e.g.: bootstrap) would be applied
 
 ## Procedure
